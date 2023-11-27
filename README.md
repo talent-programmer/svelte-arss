@@ -1,13 +1,6 @@
 # arss
 An rss reader that doesn't try to do too much
 
-## Demo
-
-
-https://user-images.githubusercontent.com/40111357/116642642-59d28480-a93d-11eb-96d7-23bd97e7209e.mp4
-
-
-
 ## Motivation
 
 I wanted a very minimal RSS reader that **wasn't** feature packed, but could be extended. Something super simple.
@@ -22,19 +15,6 @@ Requirements:
 Install via Homebrew
 ```bash
 brew install 1ntEgr8/tap/arss-reader
-```
-
-### From source
-
-- Clone the repo
-```bash
-git clone https://github.com/1ntEgr8/arss
-```
-
-- Run the install script. You will need to specify the directory in which you want the binary to be installed
-```bash
-chmod +x ./install.sh
-./install.sh --path path/to/installation/directory
 ```
 
 ## Usage
